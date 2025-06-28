@@ -57,9 +57,9 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="https://avatars.githubusercontent.com/u/80364531?v=4"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspAlan Sbr>
     &nbsp&nbsp&nbsp
     <a 
         href="https://github.com/Alan-ocs">
